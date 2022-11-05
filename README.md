@@ -32,8 +32,6 @@ http://afbat.co<br>
 - Honors, Grants etc --> funding
 - Added Language Skills (separate from Computer Skills, Programming etc)
 
-  While this version is more geared toward established faculty in Linguistics, it's a good starting point for those, including junior scholars in different disciplines (e.g. Information and Media, etc.) to use as a skeleton for market materials. Or, at least that is how I justify my "productive procrastination".
-
 
 <b>What's Different?</b> <br> (May 2021)
 - added space for community college (proud community college, non-trad --> PhD Student here)
