@@ -22,7 +22,7 @@ Ava Francesca Battocchio <battocch@msu.edu> <br>
 http://afbat.co<br>
 <p>
 
-<b>What's Different?</b> <br> (May 2021)
+<b>What's Different?</b> <br> (November 2022)
 - revised to include academic appointments
 - moved "areas of interest"
 - added Publication(books)
